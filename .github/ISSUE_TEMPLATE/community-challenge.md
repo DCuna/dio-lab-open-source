@@ -1,10 +1,11 @@
 ---
 name: Community Challenge
-about: 'Crie um Template sobre a comunidade '
-title: 'Dados '
+about: Desenvolva uma issue acerca do desafio dado a Comunidade
+title: Desafio da Comunidade DIO
 labels: Cummunity Challenge, documentation
-assignees: ''
+assignees: DCuna
 
 ---
 
-
+Desafio muito interessante .
+Realizei o meu baseando no exemplo da instrutora.
